@@ -318,16 +318,9 @@ These are common public-health and data-analysis questions, and the project demo
 
 This project demonstrates how to clean a large real-world dataset in Python, store it in SQL, and analyze it using SQL queries and Pandas-based reporting. It combines data engineering and analytics in a complete workflow that is useful for portfolio projects, academic work, and business intelligence tasks.
 
----
 
-## Contact / Project Use
 
-This repository is intended as a data analysis project example. It is suitable for learning and demonstration, especially for students and aspiring analysts working with:
 
-- public health datasets
-- SQL analytics
-- Python data cleaning
-- dashboard and reporting workflows
 
 If you want to extend the project, you can add:
 
