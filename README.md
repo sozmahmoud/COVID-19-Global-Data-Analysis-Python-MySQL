@@ -322,10 +322,3 @@ This project demonstrates how to clean a large real-world dataset in Python, sto
 
 
 
-If you want to extend the project, you can add:
-
-- more advanced visualizations
-- Power BI dashboard connection
-- additional KPIs
-- country comparison filters
-- regional drill-down analysis
